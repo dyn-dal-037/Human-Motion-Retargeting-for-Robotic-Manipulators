@@ -16,14 +16,10 @@ The system emphasizes **modularity, hardware safety, and reproducibility**, maki
 
 ## Photos
 
-![Robotic Arm](assets/hardware_images/view.jpeg)
-![Kinect_Used](assets/hardware_images/kinect.jpeg)
-![Wiring and Servo Driver](assets/hardware_images/closeup.jpeg)
-![Kinect_setup](assets/hardware_images/kinect_software_setup.jpeg)
+In asset folder
 
-## Demo Video
+## 🎥 Demo Video
 
-🎥 **System Demonstration**  
 https://drive.google.com/drive/folders/1rJb3mp3yVHOqHLJPWuf4lFBBddkgHWPv?usp=sharing
 ---
 
